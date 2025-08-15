@@ -110,9 +110,3 @@ The project uses two main datasets (sourced from Kaggle):
 
 This project is open-source and available under the **MIT License.
 
-
-
-If you upload this as `README.md` in your GitHub repo, it will automatically display on the main page and make the repo look **professional and attractive**.  
-
-If you want, I can also **add dataset download links, sample graphs, and images** inside the README to make it visually engaging. That would make it even more impressive to visitors.
-```
